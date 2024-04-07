@@ -1,0 +1,13 @@
+.my-card{
+    display: inline-block;
+}
+
+.my-card img{
+    height: 300px;
+}
+
+.card-body p{
+    height: 150px;
+    overflow: hidden;
+    margin: 10px 0;
+}
